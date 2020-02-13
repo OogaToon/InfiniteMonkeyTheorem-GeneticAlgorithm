@@ -15,4 +15,4 @@
 4. **Crossover**
 5. **Mutation**
 
-![alt text](/Pictures/pic_for_don1.png)
+![alt text](/Pictures/pic_for_don1.png) ![alt text](/Pictures/pic_for_don2.png) 
